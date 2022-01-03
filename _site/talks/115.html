@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>2022 Pass the SALT | Why are Frida and QBDI a Great Blend on Android?</title>
+
+    <!-- Twitter cards -->
+    <meta name="twitter:site"    content="@passthesaltcon">
+    <meta name="twitter:creator" content="@passthesaltcon">
+    <meta name="twitter:card"    content="summary">
+    <meta name="twitter:title"   content="PTS22 | Why are Frida and QBDI a Great Blend on Android?">
+    <meta name="twitter:description" content="Reverse engineering of Android applications is usually considered as somewhat effortless because …">
+    <meta name="twitter:image" content="http://localhost:4000/img/card.png">
+    <!-- end of Twitter cards -->
+
+    <!-- Open graph -->
+    <meta property="og:title"   content="2022 Pass the SALT | Why are Frida and QBDI a Great Blend on Android?">
+    <meta property="og:author" content="@passthesaltcon">
+    <meta property="og:description" content="Reverse engineering of Android applications is usually considered as somewhat effortless because …">
+    <meta property="og:image" content="http://localhost:4000">
+    <!-- end of Open graph -->
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css">
+
+    <!-- Custom CSS
+    <link rel="stylesheet" href="css/main.css" type="text/css"> -->
+    <link href="/css/main.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="alternate" type="application/rss+xml" title="Pass the SALT 2020 RSS" href="/feed.xml">
+
+    <!-- Openstreetmap and leaflet ressources -->
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
+
+    <style>
+     .en:lang(en), .fr:lang(fr){
+     font-weight: bold;
+     }
+    </style>
+
+</head>
+
+
+<body id="page-top">
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container" style="background-color:#036666; ">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="/#page-top">Home</a>
+
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="/#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="/#sponsors">Sponsors</a>
+                </li>                <li>
+                    <a class="page-scroll" href="/code-of-conduct/">Code of Conduct</a>
+                </li>        
+                <li>
+                    <a class="page-scroll" href="https://www.pass-the-salt.org/">Archives & more</a>
+                </li>
+<!--                <li>
+                    <a href="/blog/">Blog</a>
+                </li>
+
+                
+                
+                  <li>
+                  
+                  <a href="/css/main.css" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/sitemap.xml" ></a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/105" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/112" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/113" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/115" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/116" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/118" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/119" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/121" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/122" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/123" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/125" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/126" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/127" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/128" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/129" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/140" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/schedule/" style="color:#F05F40;" >en</a>
+                  
+                  </li>
+                
+                  <li>
+                  
+                  <a href="/talks/130" >fr</a>
+                  
+                  </li>
+                 -->
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+  <!--<header id="header" class="intro-header bg-primary text-center" >-->
+
+<section  id="post">
+<div class="container" >
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+<!--                <h2 class="section-heading">Timeline</h2>
+                <hr class="light">
+                <p class="text-faded">
+                <b>What and when ?</b><br><br>-->
+                <p>« <a href="/schedule/">back to schedule</a></p>
+
+<h2 id="why-are-frida-and-qbdi-a-great-blend-on-android">Why are Frida and QBDI a Great Blend on Android?</h2>
+<hr />
+
+<p>Reverse engineering of Android applications is usually considered as somewhat effortless because of the possibility of retrieving the Java representation of the application’s code. An attacker is basically able to read through a human-readable version of the code in order to quickly extract the intellectual property, gather some assets, find vulnerabilities and so on.
+Nowadays, most of the Android application editors are aware of this weakness and try their best to make reverse engineers’ work harder. They often rely on integrating obfuscation strategies or shifting sensitive features from Java/Kotlin side to native code thanks to Java Native Interface (shortened JNI). However, the reverse engineering process gets much more complex when they decide to use both – that is, obfuscated native code. As a result, statically looking into the native library’s disassembly turns out to be pretty tedious and time-consuming. Fortunately, inspection at runtime is still possible and offers a convenient way to efficiently grasp the inner mechanisms of the application, even over obfuscation.
+Since protections against regular debuggers are quite common among popular applications, using a Dynamic Binary Instrumentation (DBI) framework such as Frida, remains a great option for a thorough examination. Technically speaking, Frida allows users to inject their own code at the beginning and the end of a native function or replace the whole implementation. Though, Frida lacks granularity at some point, especially when it comes to inspecting the execution at the instruction scale. In this context, QBDI, a DBI framework we have developed at Quarkslab, can give Frida a hand determining which parts of the code have been executed when calling a given native function.
+This talk aims to present how Frida and QBDI can be used together for making the native reverse engineering process easier on Android.</p>
+
+<hr />
+<h3 id="speakers">Speaker(s)</h3>
+
+<p><strong>Tom Czayka (Quarkslab)</strong></p>
+
+<h3 id="bio">Bio</h3>
+<p>Tom Czayka is a security researcher working at Quarkslab. He is interested in everything related to Android operating system, especially internals. He is keen on reverse engineering, instrumentation, fuzzing and low-level programming. As well, he is into developing tools which assist reverse engineers and make their daily work easier.</p>
+
+<p>« <a href="/schedule/">back to schedule</a></p>
+
+<!--                </p>
+                <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+  <!-- jQuery -->
+<script src="/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript
+<script src="js/bootstrap.min.js"></script> -->
+
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.fittext.js"></script>
+<script src="/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/creative.js"></script>
+
+<!-- jQuery
+<script src="/vendor/jquery/jquery.min.js"></script> -->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Theme JavaScript -->
+<script src="/js/new-age.min.js"></script>
+
+
+
+</body>
+
+</html>
