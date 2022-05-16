@@ -12,8 +12,8 @@ ref: Practical
 
 <div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3> The dates</h3></div>
 <ul>
-	<li><b>conference start:</b> Monday June, 29th 2020 2:00PM</li>
-	<li><b>conference end:</b> Wednesday July, 3th 2020 5:00PM</li>
+	<li><b>conference start:</b> Monday July, 4th 2022 2:00PM</li>
+	<li><b>conference end:</b> Wednesday July, 6th 2022 5:00PM</li>
 </ul>
 <br>
                 
