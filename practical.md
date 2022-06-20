@@ -9,7 +9,7 @@ ref: Practical
 # Practical & Safety Information
 
 ---
-Fast shortcuts: <a href="#coming">How to come</a> | <a href="#on-site-registration">on-site registration</a> | <a href="#eat--drink--party">eat, drink and party</a> | <a href="#safety--covid-information"> Safety & COVID</a>
+<a href="#coming">How to come</a> | <a href="#on-site-registration">on-site registration</a> | <a href="#eat--drink--party">eat, drink and party</a> | <a href="#safety--covid-information"> Safety & COVID</a>
 
 ## When
 
@@ -86,8 +86,12 @@ Despite that situation, we will provide:
 
 at the org desk and in the 2 rooms (lecture hall and workshops room). 
 
-Rooms equipments:
+**Rooms equipments:**
 - **lecture hall**:  there is a ventilation system that is automatically activated when the temperature rises or when the CO2 reaches a certain level. In addition, polytech has several portable CO2 detectors and one will be placed prominently on the desk at the bottom of the lecture hall.
 - **workshop room**: there is air-conditioning, there will also be a portable CO2 detector in place. 
 
 <img src="/img/practical/capteur-co2.jpeg" height="204" width="153"  alt="CO2 detector">
+
+**Pauses:** they will take place at the back exit (read: outside) of the building to be in an open space and not in a room.
+
+**Social event:** we will have access to a terrace in order to be able to get fresh air and not stay during all the evening inside the building. 
