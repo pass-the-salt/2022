@@ -32,4 +32,5 @@ ref: Speakers
 - **Recording:** your talk will be live streamed and recorded by our Ubicast friends.
 
 # Workshop room
+- **screen and projector:** you will have a very recent screen and projector.
 - **network access:** every participant who has accepted it during registration process will received a network access (we work to get non filtered SSH output among other things). We will try to set up an ethernet switch with less filtered as possible Internet access. 
