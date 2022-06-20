@@ -92,6 +92,6 @@ at the org desk and in the 2 rooms (lecture hall and workshops room).
 
 <img src="/img/practical/capteur-co2.jpeg" height="204" width="153"  alt="CO2 detector">
 
-**Pauses:** they will take place at the back exit (read: outside) of the building to be in an open space and not in a room.
+**Pauses:** they will take place at the back entrance of the building, but outside, to be in an open space and not in a room.
 
-**Social event:** we will have access to a terrace in order to be able to get fresh air and not stay during all the evening inside the building. 
+**Social event:** we will be have an access to a terrace. So, we will be able to get fresh air and not to stay inside the building during all the evening. 
