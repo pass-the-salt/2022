@@ -17,20 +17,26 @@ ref: Speakers
 - **Preferred file type:** we prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Power-what? You are at Pass the SALT, please ;-)
 - **IMPORTANT send us your speaker deck:** we will greatly appreciate if you can provide your slides before your talk or just after it. We try to provide them to all attendees (on-site and online ones) as soon as possible on our [archives site](https://archives.pass-the-salt.org/).
 
+# Testing your video setup BEFORE your talk
+
+Please come during the pause (or before the start of the morning / afternoon session) on stage in order to test your laptop with the video system.
+
 # Lecture hall
 
 - **Screens & pojector:** 
   - **Main screen and projector:** the two are brand new ones and the screen is bigger than the previous one, for those who were there in 2018-2019 :)
 
-<img src="/img/practical/main-room-screen.jpeg" height="153" width="204"  alt="main-screen">
+  <center><img src="/img/practical/main-room-screen.jpeg" height="153" width="204"  alt="main-screen"></center>
 
   - **Plugs:** on stage, you will have HDMI and VGA plugs for video signal and some electrical plugs.
   - **Feedback screen:** you will have a feedback screen on the back of the hall (use big size fonts!)
 
-  <img src="/img/practical/feedback-screen.jpeg" height="204" width="153"  alt="feedback-screen">
+  <center><img src="/img/practical/feedback-screen.jpeg" height="204" width="153"  alt="feedback-screen"></center>
 
 - **Recording:** your talk will be live streamed and recorded by our Ubicast friends.
 
 # Workshop room
 - **screen and projector:** you will have a very recent screen and projector.
 - **network access:** every participant who has accepted it during registration process will received a network access (we work to get non filtered SSH output among other things). We will try to set up an ethernet switch with less filtered as possible Internet access. 
+
+  <center><img src="/img/practical/workshop-room.jpeg" height="153" width="204"  alt="workshop room"></center>

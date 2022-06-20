@@ -94,7 +94,7 @@ at the org desk and in the 2 rooms (lecture hall and workshops room).
 - **lecture hall**:  there is a ventilation system that is automatically activated when the temperature rises or when the CO2 reaches a certain level. In addition, polytech has several portable CO2 detectors and one will be placed prominently on the desk at the bottom of the lecture hall.
 - **workshop room**: there is air-conditioning, there will also be a portable CO2 detector in place. 
 
-<img src="/img/practical/capteur-co2.jpeg" height="204" width="153"  alt="CO2 detector">
+<center><img src="/img/practical/capteur-co2.jpeg" height="204" width="153"  alt="CO2 detector"></center>
 
 **Pauses:** they will take place at the back entrance of the building, but outside, to be in an open space and not in a room. Obviously, if the weather is not on our side, the pause will be held inside the building with opened doors.
 
