@@ -15,6 +15,8 @@ ref: Practical
 
 <p><span style="color:orange; ">conference start:</span> Monday July, 1nd 2019 2:00PM<br />
 <span style="color:orange; ">conference end:</span> Wednesday July, 3th 2019 5:00PM<br /></p>
+
+**Important:** the registration desk will open at 1:15PM the first day (Monday June, 4th). 15min before the start of the talks on the 2 others days.
                 
 ## Where
 
@@ -65,6 +67,8 @@ address: Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
 **On-site:**
 - provide the PDF/printed ticket to the org members at the desk
 - we will provide you a badge with your name and 2 coins embedded usable to get 2 free drinks during the social event (Tuesday evening!)
+
+**Important:** the registration desk will open at 1:15PM the first day (Monday June, 4th). 15min before the start of the talks on the 2 others days.
 
 ## Eat & drink & party!
 
