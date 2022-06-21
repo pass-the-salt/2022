@@ -9,7 +9,7 @@ ref: Practical
 # Practical & Safety Information
 
 ---
-<a href="#coming">How to come</a> | <a href="#on-site-registration">on-site registration</a> | <a href="#eat--drink--party">eat, drink and party</a> | <a href="#safety--covid-information"> Safety & COVID</a>
+<a href="#coming">How to come</a> | <a href="#on-site-registration">on-site registration</a> | <a href="#eat--drink--party">eat, drink and party</a> | <a href="#network-access">network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
 
 ## When
 
@@ -79,6 +79,16 @@ address: Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
 <br>  **Your attention please:** we won't provide you a coffee/thea pause before the start, each morning nor after mid-day lunch! Take your disposition ;-)  
 
 - **Social event**: we will communicate during the event the social event location. It will be held during Tuesday evening and to access, your badge will be required!
+
+We have no information about legacy French biscuits that may appear on the pauses tables ;-) 
+
+## Network access
+
+If, during the registration, you have accepted that we communicate your name and email to the Polytech school network admins, they will send you credentials to connect to the Wifi and so get Internet access during the event.
+
+We are currently waiting for more details (SSID, which protocols will be authorized to communicate with Internet) from the Network team. 
+
+When we will have these information, we will update this page :)
 
 ## Safety & COVID information
 
