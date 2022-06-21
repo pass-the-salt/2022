@@ -13,10 +13,10 @@ ref: Practical
 
 ## When
 
-<p><span style="color:orange; ">conference start:</span> Monday July, 1nd 2019 2:00PM<br />
-<span style="color:orange; ">conference end:</span> Wednesday July, 3th 2019 5:00PM<br /></p>
+<p><span style="color:orange; ">conference start:</span> Monday July, 4th 2022 2:00PM<br />
+<span style="color:orange; ">conference end:</span> Wednesday July, 6th 2022 5:00PM<br /></p>
 
-**Important:** the registration desk will open at 1:15PM the first day (Monday June, 4th). 15min before the start of the talks on the 2 others days.
+**Important:** the registration desk will open at 1:15PM the first day (Monday July, 4th). 15min before the start of the talks on the 2 others days.
                 
 ## Where
 
