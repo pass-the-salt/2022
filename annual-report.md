@@ -247,10 +247,10 @@ Obviously, we have also received some improvement suggestions:
 Our core values are working into the open with putting great value on sharing and collaboration.
 
 We try to provide **year after year consistent action regarding these values** by :
-- providing easy access to the conference through free admission for talks, workshops and partly paid social event, open streaming,
-- putting online very quickly all the content produced during the edition (<a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/">slides</a>, <a href="https://passthesalt.ubicast.tv/channels/#2022">videos</a>),
-- archiving all slides and videos since 2008 on a <a href="https://archives.pass-the-salt.org/">self-hosted website</a>,
-- documenting all our production (ex: <a href="https://www.thingiverse.com/thing:5428345">badge</a> design) and <a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/PTS2022-Rump-01-Organisation-talk.pdf">inner working</a> (budget, priorities, choices) 
+- providing easy access to the conference through **free admission for talks, workshops and partly paid social event, open streaming**,
+- **putting online very quickly all the content** produced during the edition (<a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/">slides</a>, <a href="https://passthesalt.ubicast.tv/channels/#2022">videos</a>),
+- **archive:** archiving all slides and videos since 2008 on a <a href="https://archives.pass-the-salt.org/">self-hosted website</a>,
+- **documenting** all our production (ex: <a href="https://www.thingiverse.com/thing:5428345">badge</a> design) and <a href="https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/slides/PTS2022-Rump-01-Organisation-talk.pdf">inner working</a> (budget, priorities, choices) 
 - and <a href="https://www.pass-the-salt.org/achievements/#contributions">promoting all exchanges and collaborations</a>. As said in the synthesis, we also begin to see speakers who start their speaker career during our conference crossing road with seasoned speakers coming back to PTS after having started their speaker journey in our conferences (RMLL Sec track or PTS). It is a real pleasure to see this happen and **a sign of the long term impact we are starting to have** 🙂
 
 We hope that these actions give a certain level of consistency and credit to the conference goals and values.
