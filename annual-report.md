@@ -39,7 +39,7 @@ In short, we can say that:
 <br>
 <a href="https://twitter.com/angealbertini/status/1544763327498240000">![happy](/img/report/happy.png "happy")</a>
 <br>
-- **Collaboration:** Some collaboration between developers and researchers has already emerged after the conference such as **Landlock support in Suricata**. We track them on our achievements page, let’s give a look! We are very happy to see this happen because that’s exactly why we have created this conference for 🤩 
+- **Collaboration:** Some collaborations between developers and researchers have already emerged after the conference such as **Landlock support in Suricata**. We track them on our achievements page, let’s give a look! We are very happy to see this happening because that’s exactly why we have created this conference for 🤩 
 <br/>
 <a href="https://twitter.com/passthesaltcon/status/1555201647822921728">![happy](/img/report/proud.png "proud")</a>
 <br/>
@@ -83,7 +83,7 @@ _source : booking form_<br>
 
 <div style="border-left: 5px solid green; padding-left: 10px"> <h2 id="exposure">2. Conference exposure</h2></div>
 
-* **Videos:** 1 months after the event, [online videos](https://passthesalt.ubicast.tv/channels/#2019-lille) have accumulated <u>1.115 views</u> (2019: 1248 views but after 2 months).
+* **Videos:** 1 month after the event, [online videos](https://passthesalt.ubicast.tv/channels/#2022) have accumulated <u>1.115 views</u> (2019: 1248 views but after 2 months).
   <br><br>
 * **Media:**
   * **Conference reports:** 
