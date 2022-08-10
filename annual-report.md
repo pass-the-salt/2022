@@ -12,6 +12,13 @@ lang: en
 
 ---
 
+<style>  
+img {
+  max-width: 100%;
+  height: auto;
+  }
+</style>
+
 Pass the SALT is a free access, English spoken, 3-day conference dedicated to Free software and Security. 
 
 You will find below the final report of the conference, in which we will detail:
@@ -48,7 +55,9 @@ In short, we can say that:
 We really want to **thank you** (speakers, attendees and sponsors) for your support which makes all of this possible!
 
 <div style="border-left: 5px solid green; padding-left: 10px"> <h2 id="attendance">1. Attendance</h2></div>
-![attendance](/img/report/attendees2.jpg)
+
+![attendees](/img/report/attendees2.jpg)
+
 * **155 people** booked their seat (2019: 240). 
 * Finally, **103 people** (185) came to get their badge 
 * So it makes a **no show ratio of: ~33%** (23%) 
