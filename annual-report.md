@@ -229,8 +229,9 @@ Fig.: *unused badges of people who finally did not show up*
 Note on this topic: a speaker, Paul Rascagnères, has decided to give an online version, one week later, of his Ghidra workshop to the people registered on the on site waiting list.
 
 **Other improvements suggested:**
-- Putting a BIG button on the website for easy jumping into the streaming,
-- Better streaming monitoring in order to limit its disruption length when it happens. It happened twice and only noticed once, reported by viewers.
+- Try to set up **an ice-breaker event** (ex.: social meeting somewhere) **for the first evening**. It is proposed in order to help people to discover each others faster than having to wait for the main social event occuring during the evening of the second day ;
+- Put a **bigger button on the website indicating the streaming link** ;
+- **Monitor streaming more efficiently** in order to limit its disruption length when it happens. It happened twice and only noticed once, reported by viewers.
 
 <h3 style="border-left: 5px solid green; padding-left: 10px" id="speakers-feedback">Speakers feedback</h3>
 
